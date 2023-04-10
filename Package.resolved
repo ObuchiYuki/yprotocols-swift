@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "lib0-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ObuchiYuki/lib0-swift.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "eb1808ac5997d280fb85299a5ba49ef0c0c7c4a8"
+      }
+    },
+    {
+      "identity" : "promise",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ObuchiYuki/Promise.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e90a0ab18fbb622fa7a7f1843ed870d047e2d5d6"
+      }
+    },
+    {
+      "identity" : "yswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ObuchiYuki/yswift.git",
+      "state" : {
+        "branch" : "1.0.0",
+        "revision" : "30bfd14104e8d8c17ee02870df49e41094d2d2bc"
+      }
+    }
+  ],
+  "version" : 2
+}
